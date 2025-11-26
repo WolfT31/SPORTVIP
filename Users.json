@@ -1,3 +1,9 @@
-{
-  "users": []
-}
+[
+  {
+    "id": "54593e9db2021476",
+    "username": "wolftz",
+    "password": "wolftz",
+    "expiresAt": "2025-12-12",
+    "allowOffline": false
+  }
+]
