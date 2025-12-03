@@ -5,5 +5,12 @@
     "password": "wolftz",
     "expiresAt": "2025-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "54593e9db2021476",
+    "username": "anatoly",
+    "password": "anatoly",
+    "expiresAt": "2025-12-12",
+    "allowOffline": false
   }
 ]
