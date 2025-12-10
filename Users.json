@@ -26,5 +26,12 @@
     "password": "malcom",
     "expiresAt": "2025-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "3ee7635ce572be82",
+    "username": "sajjad",
+    "password": "sajjad",
+    "expiresAt": "2025-12-12",
+    "allowOffline": false
   }
 ]
