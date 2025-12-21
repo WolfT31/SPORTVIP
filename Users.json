@@ -54,5 +54,12 @@
     "password": "Wolf",
     "expiresAt": "2026-6-2",
     "allowOffline": false
+  },
+  {
+    "id": "cab93ff76ffa7100",
+    "username": "amina",
+    "password": "amina",
+    "expiresAt": "2025-12-12",
+    "allowOffline": false
   }
 ]
