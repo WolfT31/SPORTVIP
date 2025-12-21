@@ -47,5 +47,12 @@
     "password": "hehe",
     "expiresAt": "2026-5-5",
     "allowOffline": false
+  },
+  {
+    "id": "1a98888e8197ed2d",
+    "username": "Trialacc",
+    "password": "Wolf",
+    "expiresAt": "2026-6-2",
+    "allowOffline": false
   }
 ]
