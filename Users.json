@@ -82,5 +82,12 @@
     "password": "drax",
     "expiresAt": "2026-5-5",
     "allowOffline": false
+  },
+  {
+    "id": "",
+    "username": "",
+    "password": "",
+    "expiresAt": "2025-12-12",
+    "allowOffline": false
   }
 ]
