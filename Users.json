@@ -89,12 +89,5 @@
     "password": "ck254",
     "expiresAt": "2026-12-12",
     "allowOffline": false
-  },
-  {
-    "id": "49d1ecf7e176f05c",
-    "username": "hans",
-    "password": "hans",
-    "expiresAt": "2025-12-12",
-    "allowOffline": false
   }
 ]
