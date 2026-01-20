@@ -96,5 +96,12 @@
     "password": "hans",
     "expiresAt": "2026-6-6",
     "allowOffline": false
+  },
+  {
+    "id": "7373837338338",
+    "username": "hdhdhd",
+    "password": "jdhdhd",
+    "expiresAt": "2025-12-12",
+    "allowOffline": false
   }
 ]
